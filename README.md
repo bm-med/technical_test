@@ -73,8 +73,7 @@ Replace `"your_openai_api_key_here"` with your actual OpenAI API key.
 
 ### 5. Prepare your data file
 
-Ensure you have an Excel data file (`.xlsx`) ready for upload when you run the application. The application no longer automatically loads `Data Dump - Accrual Accounts.xlsx` but expects user input.
-
+Ensure you have an Excel data file (`.xlsx`) ready for upload when you run the application. T
 ## How to Run the Application
 
 Once you have completed the setup, run the Streamlit application from your terminal:
