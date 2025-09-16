@@ -100,8 +100,3 @@ This will open the application in your web browser.
 *   "What are the unique values in the 'Department' column?"
 *   "What is the mean of the column `Transaction Value`?"
 *   "Are there any outliers in my table?" (This will prompt you to specify a column)
-
-## Customization
-
-*   **Add More Python Functions**: You can extend `utils.py` with more complex data analysis functions and update the `tools` list and `system_prompt` in `app.py` to make the Langchain agent aware of them.
-*   **Change LLM Model**: You can modify the `model` parameter in the `ChatOpenAI` initialization in `app.py` to use a different OpenAI model (e.g., `gpt-4`).
